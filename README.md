@@ -4,7 +4,7 @@ I'm a dedicated and experienced web developer.<br>
 I can assist you if you need any help.<br>
 Because I'm accessible and easy to collaborate with.<br><br>
 <b>Front end - HTML, CSS, JavaScript</b><br>
-<b>Back end - JavaScript (Node js), python</b><br>
+<b>Back end - JavaScript (Node js), Python, Firebase</b><br>
 <b>Frameworks - React, Tailwind CSS, Bootstrap</b>
 
 <!---
